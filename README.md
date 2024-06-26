@@ -9,6 +9,7 @@ https://app.powerbi.com/groups/me/reports/90b713a5-2436-4f0b-9c18-b631745cc315?e
 
 
 💻 Tech Stack
+
 🐬 SQL
 📊 PowerBI Desktop
 📈 Excel
@@ -34,6 +35,7 @@ https://app.powerbi.com/groups/me/reports/90b713a5-2436-4f0b-9c18-b631745cc315?e
 📱 PowerBI App creation
 🤝 Collaboration, workspace management, and access permissions in PowerBI Services
 And more 😅
+
 🐙 GitHub
 📂 Uploading large files using GitHub LFS
 🔍 Tracking specific file types for LFS
@@ -53,6 +55,7 @@ And more 😅
 📦 Distributors
 👥 Consumer
 🏢 Company Background
+
 AtliQ Hardware has seen significant growth in recent years, expanding globally. The company sells computers and computer accessories through three channels:
 
 🏬 Retailers
@@ -61,6 +64,7 @@ AtliQ Hardware has seen significant growth in recent years, expanding globally. 
 Recently, the company faced unforeseen losses by opening a store in America based on surveys, intuition, and some Excel analysis. Their competitors have analytics teams to make data-driven decisions, pushing AtliQ Hardware to build their analytics team for better insights and decision-making in the future.
 
 ❓ Key Questions Before Starting the Dashboard
+
 ❔ What is the objective of building this PowerBI dashboard?
 📏 How will the success of this project be measured?
 ⏳ What is the project deadline?
@@ -140,6 +144,7 @@ Based on the received mock-ups, the team will design visuals and create measures
 🏠 Home View
 The Home view contains buttons to navigate to specific views:
 
+
 ℹ️ Info
 💵 Finance View
 📈 Sales View
@@ -147,54 +152,6 @@ The Home view contains buttons to navigate to specific views:
 🚚 Supply Chain View
 👔 Executive View
 💬 Support
-🏆 Report Overview
-Overall Report
 
-ℹ️ Info Page
-Info
+To view all the above tabs click on the [LIVE DASHBOARD LINK](https://app.powerbi.com/groups/me/reports/90b713a5-2436-4f0b-9c18-b631745cc315?experience=power-bi&clientSideAuth=0).
 
-💵 Finance View
-Finance
-
-📈 Sales View
-Sales
-
-📊 Marketing View
-Marketing
-
-🚚 Supply Chain View
-Supply Chain
-
-👔 Executive View
-Executive
-
-💬 Support Page
-Products
-
-You can find the full report file here: Report
-
-🎯 Project Outcome
-This report enables data-driven decision-making and helps answer numerous "why" questions based on various situations.
-
-About
-Business Insights 360 Dashboard using Power BI
-
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privac
